@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[nmc:home|Door43 (nmc)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-nmc|d43-nmc repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-nmc/archive/master.zip|d43-nmc.zip]]
+
+**Recent Changes**
+{{changes>ns = nmc}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/nmc|Ethnologue data]]
+
